@@ -10,7 +10,15 @@
   
   margin-top: 10px;
   width: 500px;
-  height: 450px;
+  height: 500px;
   margin-left: 500px;
+  border: 1px solid black;
+}
+.sb{
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: azure;
+  margin-left: 233px;
+  border-radius: 5px;
   border: 1px solid black;
 }
